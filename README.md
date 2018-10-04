@@ -1,1 +1,1 @@
-"# This is a casting practice program." 
+"# This is an if practice program." 
